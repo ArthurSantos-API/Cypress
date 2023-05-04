@@ -1,0 +1,6 @@
+{
+    "url1": "https://commissions-api.kube-prod-blue.csoki.com/healthz",
+    "url2": "https://dealershare.kube-prod-blue.csoki.com/healthz",
+    "url3": "https://electronicdisclosure-api-api.kube-prod-blue.csoki.com/healthz"
+  }
+  
