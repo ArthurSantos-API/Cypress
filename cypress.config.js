@@ -11,6 +11,6 @@ module.exports = defineConfig({
   },
     env: {
       username: "arthur.santos@dev-cellularsales.com",
-      password: "PACcamstar123!123!123!",
+      password: "*********************",
     },
 });
